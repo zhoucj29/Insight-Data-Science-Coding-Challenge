@@ -1,0 +1,1 @@
+java -jar .\src\nasaprogram.jar .\log_input .\log_output

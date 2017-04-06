@@ -1,0 +1,10 @@
+0 GET /shuttle/countdown/count70.gif HTTP/1.0 1959049585
+1 GET /shuttle/technology/sts-newsref/stsref-toc.html HTTP/1.0 1255980344
+2 GET /shuttle/countdown/video/livevideo2.gif HTTP/1.0 1169155568
+3 GET /shuttle/countdown/count.gif HTTP/1.0 1154002480
+4 GET /shuttle/missions/sts-71/movies/sts-71-hatch-hand-group.mpg 1135756810
+5 GET /shuttle/countdown/video/livevideo.gif HTTP/1.0 1128333928
+6 GET /shuttle/missions/sts-71/movies/sts-71-mir-dock.mpg HTTP/1.0 1095681435
+7 GET /history/apollo/apollo-13/movies/apo13damage.mpg HTTP/1.0 967648747
+8 GET /shuttle/missions/sts-71/movies/crew-arrival-t38.mpg HTTP/1.0 917040600
+9 GET /shuttle/missions/sts-70/movies/sts-70-launch.mpg HTTP/1.0 910056394
